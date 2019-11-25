@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-25T12:11:58.802Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="oZ3Ry6XcjkPLCVktaNcK" version="12.3.0" type="github" pages="4">
+<mxfile modified="2019-11-25T12:12:04.768Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="e4aMZMpFTHfcZFiGeL3Y" version="12.3.0" type="github" pages="4">
   <diagram id="567f4c9b-1004-9f90-2d6d-f8ee3aa5bb69" name="application">
     <mxGraphModel dx="595" dy="-218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -765,14 +765,14 @@
         <mxCell id="RU-S2-A0WHdkdgQCuIGH-0" value="Cost estimation" style="edgeStyle=orthogonalEdgeStyle;elbow=vertical;rounded=0;endArrow=blockThin;endFill=1;fontSize=11" edge="1" parent="WuFPrDRiMK51pYFUlA9G-1">
           <mxGeometry x="0.4375" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1510" y="1220"/>
-              <mxPoint x="1630" y="1220"/>
-              <mxPoint x="1630" y="1250"/>
-              <mxPoint x="1510" y="1250"/>
+              <mxPoint x="1150" y="1220"/>
+              <mxPoint x="1270" y="1220"/>
+              <mxPoint x="1270" y="1250"/>
+              <mxPoint x="1150" y="1250"/>
             </Array>
             <mxPoint as="offset"/>
-            <mxPoint x="1510" y="1240" as="sourcePoint"/>
-            <mxPoint x="1510" y="1220" as="targetPoint"/>
+            <mxPoint x="1150" y="1240" as="sourcePoint"/>
+            <mxPoint x="1150" y="1220" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
       </root>
