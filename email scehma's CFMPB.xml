@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-25T12:54:05.135Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="4s7szpkiSTT9fkdEbpvI" version="12.3.0" type="github" pages="3">
+<mxfile modified="2019-11-25T15:47:43.981Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="Fe33-YVEIPsUwBOXWkQI" version="12.3.0" type="github" pages="4">
   <diagram id="567f4c9b-1004-9f90-2d6d-f8ee3aa5bb69" name="application">
     <mxGraphModel dx="595" dy="-218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -752,6 +752,27 @@
             <mxPoint as="offset"/>
             <mxPoint x="230" y="390" as="sourcePoint"/>
             <mxPoint x="231" y="440" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_j3sXlCjFtaKI3y80qio" name="declarations">
+    <mxGraphModel dx="595" dy="-218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="duP_CLdJ9mJERSl4At1U-0"/>
+        <mxCell id="duP_CLdJ9mJERSl4At1U-1" parent="duP_CLdJ9mJERSl4At1U-0"/>
+        <mxCell id="duP_CLdJ9mJERSl4At1U-2" value="Send  cost estimate" style="edgeStyle=orthogonalEdgeStyle;elbow=vertical;rounded=0;endArrow=blockThin;endFill=1;fontSize=11" edge="1" parent="duP_CLdJ9mJERSl4At1U-1">
+          <mxGeometry x="0.4375" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1160" y="1200"/>
+              <mxPoint x="1280" y="1200"/>
+              <mxPoint x="1280" y="1230"/>
+              <mxPoint x="1160" y="1230"/>
+            </Array>
+            <mxPoint as="offset"/>
+            <mxPoint x="1160" y="1220" as="sourcePoint"/>
+            <mxPoint x="1160" y="1200" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
       </root>
