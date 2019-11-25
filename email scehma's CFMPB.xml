@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-25T15:50:24.687Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="gmZ6mZWLgidp0GefB-uR" version="12.3.0" type="github" pages="3">
+<mxfile modified="2019-11-25T15:54:11.254Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="Wesy1a6q_wDnycJLtfF4" version="12.3.0" type="github" pages="4">
   <diagram id="567f4c9b-1004-9f90-2d6d-f8ee3aa5bb69" name="application">
     <mxGraphModel dx="595" dy="-218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -309,19 +309,6 @@
         <mxCell id="VpTnjV2xZS-M58Ijr03f-482" value="Agreement Signed" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" parent="VpTnjV2xZS-M58Ijr03f-481" vertex="1" connectable="0">
           <mxGeometry x="0.1529" y="-2" relative="1" as="geometry">
             <mxPoint x="1" y="-1" as="offset"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iDBMfbgu8AREKkYkTb8t-478" value="Send  cost estimate" style="edgeStyle=orthogonalEdgeStyle;elbow=vertical;rounded=0;endArrow=blockThin;endFill=1;fontSize=11" edge="1" parent="1">
-          <mxGeometry x="0.4375" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1490" y="1490"/>
-              <mxPoint x="1610" y="1490"/>
-              <mxPoint x="1610" y="1520"/>
-              <mxPoint x="1490" y="1520"/>
-            </Array>
-            <mxPoint as="offset"/>
-            <mxPoint x="1490" y="1510" as="sourcePoint"/>
-            <mxPoint x="1490" y="1490" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
       </root>
@@ -765,6 +752,27 @@
             <mxPoint as="offset"/>
             <mxPoint x="230" y="390" as="sourcePoint"/>
             <mxPoint x="231" y="440" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="uQRjCmVMIEq7zT7ujQlo" name="Declarations">
+    <mxGraphModel dx="595" dy="-218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="5KmNoE97iti4Tu5_eXBb-0"/>
+        <mxCell id="5KmNoE97iti4Tu5_eXBb-1" parent="5KmNoE97iti4Tu5_eXBb-0"/>
+        <mxCell id="5KmNoE97iti4Tu5_eXBb-2" value="Send  cost estimate" style="edgeStyle=orthogonalEdgeStyle;elbow=vertical;rounded=0;endArrow=blockThin;endFill=1;fontSize=11" edge="1" parent="5KmNoE97iti4Tu5_eXBb-1">
+          <mxGeometry x="0.4375" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1030" y="1620"/>
+              <mxPoint x="1150" y="1620"/>
+              <mxPoint x="1150" y="1650"/>
+              <mxPoint x="1030" y="1650"/>
+            </Array>
+            <mxPoint as="offset"/>
+            <mxPoint x="1030" y="1640" as="sourcePoint"/>
+            <mxPoint x="1030" y="1620" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
       </root>
