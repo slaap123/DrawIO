@@ -1,4 +1,4 @@
-<mxfile modified="2020-11-09T11:48:44.822Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:82.0) Gecko/20100101 Firefox/82.0" etag="NQ1sVLup80LdHQ-gTK51" version="12.9.0" type="github" pages="4">
+<mxfile modified="2020-11-09T11:49:57.716Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:82.0) Gecko/20100101 Firefox/82.0" etag="g2fwDYsXx3c0RaUBdsDP" version="12.9.0" type="github" pages="4">
   <diagram id="567f4c9b-1004-9f90-2d6d-f8ee3aa5bb69" name="application">
     <mxGraphModel dx="595" dy="-267" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -384,6 +384,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="0WgN4atDCQ2ptVTxLE3--237" value="Request at Molpa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="0WgN4atDCQ2ptVTxLE3--235">
+          <mxGeometry x="0.9027" y="-3" relative="1" as="geometry">
+            <mxPoint x="35" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <UserObject label="%name%" name="Request" action9="Archive Cassetes" placeholders="1" id="197">
           <mxCell style="label,whiteSpace=wrap,html=1,sharp=1" parent="1" vertex="1">
             <mxGeometry x="400" y="1620" width="200" height="100" as="geometry" />
@@ -690,7 +695,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <UserObject label="%name%" name="Archive DNA/RNA PA" placeholders="1" id="0WgN4atDCQ2ptVTxLE3--234">
+        <UserObject label="%name%" name="Archive Molpa" placeholders="1" id="0WgN4atDCQ2ptVTxLE3--234">
           <mxCell style="label,whiteSpace=wrap,html=1,sharp=1" vertex="1" parent="1">
             <mxGeometry x="460.5" y="2070" width="200" height="100" as="geometry" />
           </mxCell>
