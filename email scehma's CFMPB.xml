@@ -1,6 +1,6 @@
-<mxfile modified="2020-11-09T11:49:57.716Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:82.0) Gecko/20100101 Firefox/82.0" etag="g2fwDYsXx3c0RaUBdsDP" version="12.9.0" type="github" pages="4">
+<mxfile modified="2020-11-13T14:43:01.810Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="_2j-AFrqkp3Lhw0QTFlB" version="13.9.2" type="github" pages="4">
   <diagram id="567f4c9b-1004-9f90-2d6d-f8ee3aa5bb69" name="application">
-    <mxGraphModel dx="595" dy="-267" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="595" dy="-258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <UserObject label="" name="Unknown" action="Save" rel="Saved" placeholders="1" ids="1" id="1">
@@ -367,7 +367,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="277ca208-b776-e639-4245-47d4091e7d0c" name="request">
-    <mxGraphModel dx="1422" dy="-267" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="-258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -376,7 +376,7 @@
             <mxGeometry x="510" y="1180" width="200" height="100" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="0WgN4atDCQ2ptVTxLE3--235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="197" target="0WgN4atDCQ2ptVTxLE3--234">
+        <mxCell id="0WgN4atDCQ2ptVTxLE3--235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="197" target="0WgN4atDCQ2ptVTxLE3--234" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="760" y="1670" />
@@ -384,7 +384,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0WgN4atDCQ2ptVTxLE3--237" value="Request at Molpa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="0WgN4atDCQ2ptVTxLE3--235">
+        <mxCell id="0WgN4atDCQ2ptVTxLE3--237" value="Request at Molpa" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" parent="0WgN4atDCQ2ptVTxLE3--235" vertex="1" connectable="0">
           <mxGeometry x="0.9027" y="-3" relative="1" as="geometry">
             <mxPoint x="35" y="3" as="offset" />
           </mxGeometry>
@@ -419,6 +419,19 @@
             <mxGeometry y="1760" width="200" height="100" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="WbYELxWVplx7z04plM2w-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="203" target="197">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="1679" />
+              <mxPoint x="280" y="1645" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WbYELxWVplx7z04plM2w-235" value="Uploaded in slidescore" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WbYELxWVplx7z04plM2w-234">
+          <mxGeometry x="-0.469" y="1" relative="1" as="geometry">
+            <mxPoint x="-7" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <UserObject label="%name%" name="Worklist Scan" placeholders="1" id="203">
           <mxCell style="label,whiteSpace=wrap,html=1,sharp=1" parent="1" vertex="1">
             <mxGeometry y="1653.5" width="200" height="100" as="geometry" />
@@ -686,7 +699,7 @@
             <mxPoint x="670" y="1359.82" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0WgN4atDCQ2ptVTxLE3--236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0WgN4atDCQ2ptVTxLE3--234">
+        <mxCell id="0WgN4atDCQ2ptVTxLE3--236" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="0WgN4atDCQ2ptVTxLE3--234" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="1720" as="targetPoint" />
             <Array as="points">
@@ -696,7 +709,7 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="%name%" name="Archive Molpa" placeholders="1" id="0WgN4atDCQ2ptVTxLE3--234">
-          <mxCell style="label,whiteSpace=wrap,html=1,sharp=1" vertex="1" parent="1">
+          <mxCell style="label,whiteSpace=wrap,html=1,sharp=1" parent="1" vertex="1">
             <mxGeometry x="460.5" y="2070" width="200" height="100" as="geometry" />
           </mxCell>
         </UserObject>
