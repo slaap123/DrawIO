@@ -1,4 +1,4 @@
-<mxfile modified="2021-02-01T10:49:56.675Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="nStsUnfd0SIRLCSujilG" version="14.2.5" type="github" pages="4">
+<mxfile modified="2021-02-01T13:56:54.632Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="8XXCNgWhf1eQH27Vr_JI" version="14.2.5" type="github" pages="4">
   <diagram id="567f4c9b-1004-9f90-2d6d-f8ee3aa5bb69" name="application">
     <mxGraphModel dx="595" dy="-258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -386,6 +386,19 @@
         </mxCell>
         <mxCell id="AgXzyx-_S_zCitC-DW9r-479" value="register for BROK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AgXzyx-_S_zCitC-DW9r-478">
           <mxGeometry x="-0.1852" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AgXzyx-_S_zCitC-DW9r-480" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="452" target="452">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1010" y="1555" />
+              <mxPoint x="1010" y="1580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AgXzyx-_S_zCitC-DW9r-481" value="Added Coworker" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AgXzyx-_S_zCitC-DW9r-480">
+          <mxGeometry x="0.3024" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
