@@ -1,6 +1,6 @@
-<mxfile modified="2021-01-06T14:27:40.098Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="9j-7zuI3Ma8mGxlIjtjV" version="14.1.8" type="github" pages="4">
+<mxfile modified="2021-02-01T10:49:56.675Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="nStsUnfd0SIRLCSujilG" version="14.2.5" type="github" pages="4">
   <diagram id="567f4c9b-1004-9f90-2d6d-f8ee3aa5bb69" name="application">
-    <mxGraphModel dx="595" dy="-338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="595" dy="-258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <UserObject label="" name="Unknown" action="Save" rel="Saved" placeholders="1" ids="1" id="1">
@@ -363,7 +363,7 @@
             <mxGeometry x="1401" y="1711" width="190" height="100" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="qXloi_8xEaTICLECo2B1-478" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="452" target="452">
+        <mxCell id="qXloi_8xEaTICLECo2B1-478" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="452" target="452" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1390" y="1555" />
@@ -371,9 +371,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qXloi_8xEaTICLECo2B1-480" value="Send to IT Data Stewards" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qXloi_8xEaTICLECo2B1-478">
+        <mxCell id="qXloi_8xEaTICLECo2B1-480" value="Send to IT Data Stewards" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="qXloi_8xEaTICLECo2B1-478" vertex="1" connectable="0">
           <mxGeometry x="0.4575" y="-2" relative="1" as="geometry">
             <mxPoint x="13.67" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AgXzyx-_S_zCitC-DW9r-478" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DIP5WJj0P4wK_IyL1S49-478" target="DIP5WJj0P4wK_IyL1S49-478">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="940" y="1520" />
+              <mxPoint x="990" y="1520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AgXzyx-_S_zCitC-DW9r-479" value="register for BROK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AgXzyx-_S_zCitC-DW9r-478">
+          <mxGeometry x="-0.1852" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
